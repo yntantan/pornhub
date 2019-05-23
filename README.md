@@ -2,13 +2,14 @@
 
 ## Introduction
 
-This project is forked from `https://github.com/killmymates/Pornhub`, and deleted QRcode.
+This project is forked from `https://github.com/killmymates/Pornhub`, and QRcode is deleted.
 
 ## New Feature
 
-- multi task using threading && Queue, simple Priority Scheduler based idle buffer size
-- download completed large file, see more to learn about `http status code 206`
+- multi task using threading && queue, simple scheduler based priority.
+- download completed large file, learn more to search `http status code 206`
 
 ## Using
 
     > python3 crawler.py
+
